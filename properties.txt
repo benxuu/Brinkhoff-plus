@@ -1,0 +1,34 @@
+! limits for input fields
+MIN_MAXTIME = 1
+MAX_MAXTIME = 5000
+MAX_OBJCLASSES = 20
+MAX_OBJPERTIME = 1000
+MAX_OBJBEGIN = 100000
+MAX_EXTOBJCLASSES = 10
+MAX_EXTOBJPERTIME = 3
+MAX_EXTOBJBEGIN = 10
+
+! setting of the generator
+!urlnez = file:/C:/Lokal/Programme/Java/ShowMap/Daten/oldenburgGen
+!urlnez = E:\\Programme\\Java\\ShowMap\\OL-Map\\oldenburgGen
+!urlnez = Daten\\oldenburgGen
+urlnez = D:\\workspace\\datafiles\\oldenburgGen
+!waitingPeriod = 1
+!DSO
+VIZ
+!outputFile = C:\\Daten\\ST_Testdaten\\oldenburg.dat
+outputFile = D:\\workspace\\oldenburg00.txt
+
+debugFile = D:\\workspace\\debug.txt
+!seed = 123
+
+! setting of the applet
+baseScaleFactor = 1250
+maxScale = 1
+minScale = 64
+scale = 64
+viewWidth = 600
+viewHeight = 600
+language = E
+color = white
+mapColor = white

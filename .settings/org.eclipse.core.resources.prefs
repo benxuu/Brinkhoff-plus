@@ -1,0 +1,13 @@
+#Wed Sep 18 14:43:59 CST 2019
+eclipse.preferences.version=1
+encoding//drawables/DrawableText.java=US-ASCII
+encoding//generator2/DefaultDataGenerator.java=ISO-8859-1
+encoding//routing/Edge.java=ISO-8859-1
+encoding//routing/Network.java=ISO-8859-1
+encoding//routing/Node.java=ISO-8859-1
+encoding//routing/Nodes.java=ISO-8859-1
+encoding//showmap/ShowMap.java=ISO-8859-1
+encoding//showmap/ShowNetworkMap.java=ISO-8859-1
+encoding//spatialdb/PreparedSpatialStatement.java=ISO-8859-1
+encoding//util/DupHashtable.java=ISO-8859-1
+encoding//util/EntryReader.java=ISO-8859-1
